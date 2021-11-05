@@ -10,6 +10,7 @@ const Home: NextPage = () => {
         <title>Home | Gestión de Proyectos</title>
       </Head>
       <p>Pagina de Index</p>
+      <p>hola monica</p>
       <Link href='/admin/usuarios'>
         <a className='cursor-pointer'>Ir a admin usuarios</a>
       </Link>
